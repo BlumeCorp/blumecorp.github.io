@@ -1,4 +1,4 @@
-# Jurisdiction
-### A site with many purposes.
+# Blume Corporation
+### motto here
 
-Welcome to Jurisdiction. I try to publish as much as I can, so stay tuned for any updates.
+
