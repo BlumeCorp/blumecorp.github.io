@@ -26,7 +26,8 @@ We will have:
   - **Yes**
   - **No**
   - **Acceptance pending revision (APR)**
-  **Acceptance pending revision** refers to the voter wishing to accept the motion pending a certain amendment being added.
+  
+**Acceptance pending revision** refers to the voter wishing to accept the motion pending a certain amendment being added.
   Reasoning must be provided for all three options.
   
   ### Staff Applications
