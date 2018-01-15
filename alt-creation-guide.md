@@ -46,25 +46,25 @@ Examples include:
 #### Step 7: Clothes
 ***Don't ever wear a package. Ever. Ever. Ever.***
 
-![US Navy Admiral Dress Uniform Top](https://www.roblox.com/catalog/180560499/U-S-Navy-Admiral-Uniform-VADM-FADM)
+[US Navy Admiral Dress Uniform Top](https://www.roblox.com/catalog/180560499/U-S-Navy-Admiral-Uniform-VADM-FADM)
 
-![US Navy Dress Bottoms](https://www.roblox.com/catalog/578227266/USN-E7-O10-Service-Dress-Blue-Trousers)
+[US Navy Dress Bottoms](https://www.roblox.com/catalog/578227266/USN-E7-O10-Service-Dress-Blue-Trousers)
 
-![Kestrel Suit Top](https://www.roblox.com/catalog/138632986/Kestrel-Classic-Black-Business-Suit)
+[Kestrel Suit Top](https://www.roblox.com/catalog/138632986/Kestrel-Classic-Black-Business-Suit)
 
-![Kestrel Suit Bottom](https://www.roblox.com/catalog/138981719/Kestrel-Classic-Black-Business-Suit-pants)
+[Kestrel Suit Bottom](https://www.roblox.com/catalog/138981719/Kestrel-Classic-Black-Business-Suit-pants)
 
-![Fabulous Hair](https://www.roblox.com/catalog/12270248/Fabulous-Hair)
+[Fabulous Hair](https://www.roblox.com/catalog/12270248/Fabulous-Hair)
 
-![Camouflage Glasses](https://www.roblox.com/catalog/116778374/Camo-Glasses)
+[Camouflage Glasses](https://www.roblox.com/catalog/116778374/Camo-Glasses)
 
-![Black Tie](https://www.roblox.com/catalog/30379217/Skinny-Tie)
+[Black Tie](https://www.roblox.com/catalog/30379217/Skinny-Tie)
 
-![US Flag Pin](https://www.roblox.com/catalog/892008738/American-Flag-Lapel-Pin)
+[US Flag Pin](https://www.roblox.com/catalog/892008738/American-Flag-Lapel-Pin)
 
-![Redcliff Lapel Pin](https://www.roblox.com/catalog/903188891/Redcliff-Lapel-Pin)
+[Redcliff Lapel Pin](https://www.roblox.com/catalog/903188891/Redcliff-Lapel-Pin)
 
-![Redcliff Cap](https://www.roblox.com/catalog/286512740/Redcliff-Cap)
+[Redcliff Cap](https://www.roblox.com/catalog/286512740/Redcliff-Cap)
 
 #### Step 8: Models
 Take popular free models from famous creators like [TwentyTwoPilots](https://www.roblox.com/users/795186/profile) and [Diddleshot](https://www.roblox.com/users/390939/profile).
